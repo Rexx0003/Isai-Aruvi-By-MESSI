@@ -1,0 +1,38 @@
+{
+   "token": "OTI4NjE0NzE2NTY0MTk3NDA2.YdbV2Q",
+   "prefix": "$",
+   "ownerIDS": [
+      "502721763680190464"
+   ],
+   "memer_api": "get it from: https://discord.gg/Mc2FudJkgP",
+   "status": {
+      "text":  "$help | DJ Tamil | by: Messidev",
+      "text2": "$help | DJ Tamil | by: Messidev",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/tamilanmessiDiscordBot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "45.144.155.84",
+            "port": 25606,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "d070a153e4c240e7aed1156193395a1f",
+      "clientID": "ab1a30961c774fc3bb45ef41d87926ea"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
