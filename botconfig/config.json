@@ -1,22 +1,22 @@
 {
-   "token": "OTI4NjE0NzE2NTY0MTk3NDA2.YdbV2Q",
-   "prefix": "$",
+   "token": "",
+   "prefix": "?",
    "ownerIDS": [
       "502721763680190464"
    ],
    "memer_api": "get it from: https://discord.gg/Mc2FudJkgP",
    "status": {
-      "text":  "$help | DJ Tamil | by: Messidev",
-      "text2": "$help | DJ Tamil | by: Messidev",
+      "text":  "?help | Isai Aruvi | by: Messidev",
+      "text2": "?help |Isai Aruvi 2.0l | by: Messidev",
       "type": "PLAYING",
       "url": "https://twitch.tv/tamilanmessiDiscordBot"
    },
    "clientsettings": {
       "nodes": [
          {
-            "host": "45.144.155.84",
-            "port": 25606,
-            "password": "youshallnotpass"
+            "host": "https://lavalink-replit-1.avengersassemb3.repl.co",
+            "port": 443,
+            "password":"arabickuthu"
          }
       ]
    },
